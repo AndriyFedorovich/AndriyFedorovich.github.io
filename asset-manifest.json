@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ea969ed.css",
-    "main.js": "/static/js/main.158542e7.js",
+    "main.css": "/static/css/main.fab54a93.css",
+    "main.js": "/static/js/main.4e895ee4.js",
     "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
-    "static/media/Andrey Fedarovich CV.pdf": "/static/media/Andrey Fedarovich CV.1d4e1e80b8129ab064f3.pdf",
-    "static/media/css-modules.svg": "/static/media/css-modules.cd952867f3eab2375ff6c391955ab869.svg",
+    "static/media/Andrey Fedarovich CV.pdf": "/static/media/Andrey Fedarovich CV.aaa4c2682a6437a75642.pdf",
+    "static/media/css-modules.svg": "/static/media/css-modules.cb981d1022a7a7377b50019e3b29098e.svg",
     "static/media/chat-gpt.svg": "/static/media/chat-gpt.bb2013ed9a7d9e9930b8074da335940e.svg",
-    "static/media/node.svg": "/static/media/node.3773b42c7d75f3dbb8ab7966ca79a2a9.svg",
-    "static/media/react.svg": "/static/media/react.68f9916608107ec7fa80c4656fa05e32.svg",
-    "static/media/next.svg": "/static/media/next.1e0f551013848367c12dff943a890d2c.svg",
+    "static/media/node.svg": "/static/media/node.3d9ce85eb9a6845459a471070c5b5323.svg",
+    "static/media/react.svg": "/static/media/react.ff4035c53dce89be1369210e8ce0d62a.svg",
+    "static/media/next.svg": "/static/media/next.944a64731729525c8d53fff752873c0a.svg",
     "static/media/ts.svg": "/static/media/ts.ab11276db8509c2e9ed3a63a91828a98.svg",
     "static/media/IconSun.svg": "/static/media/IconSun.b30062ebe9b3cde18f6f06b935869a24.svg",
-    "static/media/react-native.svg": "/static/media/react-native.c07c37971dfc0ed3b67aa79e52008156.svg",
-    "static/media/jira.svg": "/static/media/jira.833c34799fb87a8139182da2315ac3e7.svg",
-    "static/media/git.svg": "/static/media/git.f2a36016ec0ea79c30b381844d562a5a.svg",
+    "static/media/jira.svg": "/static/media/jira.8ebe804417b51dcdf0b649b2c2ed663f.svg",
     "index.html": "/index.html",
     "static/media/js.svg": "/static/media/js.b9afd042a2f979ea175b9dc010b21974.svg",
-    "static/media/figma.svg": "/static/media/figma.e630fc7137f1f5dc8d7c8780deb64f12.svg",
+    "static/media/git.svg": "/static/media/git.7f440be5503b01581882487e57ef37a8.svg",
+    "static/media/figma.svg": "/static/media/figma.ff2b542bbd12a96c6c147a8819e1a6f4.svg",
     "static/media/IconMoon.svg": "/static/media/IconMoon.341c3e28eb2048d22fe39be96aab9510.svg",
-    "static/media/in.svg": "/static/media/in.9556b68575b39549935be854604b38ee.svg",
+    "static/media/npm.svg": "/static/media/npm.d7dad93b8e8bb82165117b6e07ba0dce.svg",
+    "static/media/in.svg": "/static/media/in.260e2e89eaf5341ea1b00df0429c6db6.svg",
     "static/media/download.svg": "/static/media/download.648f15a0bb357edc8a5fceceb2382c93.svg",
-    "main.7ea969ed.css.map": "/static/css/main.7ea969ed.css.map",
-    "main.158542e7.js.map": "/static/js/main.158542e7.js.map",
+    "main.fab54a93.css.map": "/static/css/main.fab54a93.css.map",
+    "main.4e895ee4.js.map": "/static/js/main.4e895ee4.js.map",
     "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ea969ed.css",
-    "static/js/main.158542e7.js"
+    "static/css/main.fab54a93.css",
+    "static/js/main.4e895ee4.js"
   ]
 }
