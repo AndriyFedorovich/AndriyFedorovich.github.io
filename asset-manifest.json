@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.37577d14.css",
-    "main.js": "/static/js/main.a1d4df95.js",
+    "main.css": "/static/css/main.fabe0c30.css",
+    "main.js": "/static/js/main.897f6cc1.js",
     "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
     "static/media/Andrey Fedarovich CV.pdf": "/static/media/Andrey Fedarovich CV.4e44a8a85de6b485fd79.pdf",
     "static/media/css-modules.svg": "/static/media/css-modules.cb981d1022a7a7377b50019e3b29098e.svg",
@@ -20,12 +20,12 @@
     "static/media/npm.svg": "/static/media/npm.d7dad93b8e8bb82165117b6e07ba0dce.svg",
     "static/media/in.svg": "/static/media/in.260e2e89eaf5341ea1b00df0429c6db6.svg",
     "static/media/download.svg": "/static/media/download.648f15a0bb357edc8a5fceceb2382c93.svg",
-    "main.37577d14.css.map": "/static/css/main.37577d14.css.map",
-    "main.a1d4df95.js.map": "/static/js/main.a1d4df95.js.map",
+    "main.fabe0c30.css.map": "/static/css/main.fabe0c30.css.map",
+    "main.897f6cc1.js.map": "/static/js/main.897f6cc1.js.map",
     "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37577d14.css",
-    "static/js/main.a1d4df95.js"
+    "static/css/main.fabe0c30.css",
+    "static/js/main.897f6cc1.js"
   ]
 }
